@@ -3,6 +3,12 @@ The size of data used in this project is larger than 25 MB so it can't be upload
 
 Steps for how to use data:
 
-Open the above link
-Download the data (two .zip files) from the link.
-Place those both files in same folder as code
+1. Open the above link
+2. Download the data (two .zip files) from the link.
+3. Place those both files in same folder as code
+4. Install following libararies:
+Tensorflow
+keras,cv
+seaborn
+matplotlib
+5. Run the code. 
